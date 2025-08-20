@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "text": "A savings account is a deposit account held at a bank or other financial institution that provides principal security and a modest interest rate. It helps you save money.",
+        "category": "accounts"
+    },
+    {
+        "id": 2,
+        "text": "To apply for a loan, you typically need to fill out an application form, provide proof of income, identification (like Aadhaar/PAN), and sometimes collateral. Our loan application can be found online through our portal or at any branch.",
+        "category": "loans"
+    },
+    {
+        "id": 3,
+        "text": "Interest rates on savings accounts vary, but typically range from 0.01% to 1.5% APY depending on the account type and market conditions. Fixed deposit rates currently start from 6.5% for 1-year terms. Longer terms may offer higher rates. Penalties may apply for early withdrawal.",
+        "category": "rates"
+    },
+    {
+        "id": 4,
+        "text": "Credit cards offer a revolving line of credit, allowing you to borrow funds up to a certain limit. They are useful for building credit history.",
+        "category": "cards"
+    },
+    {
+        "id": 5,
+        "text": "You can check your account balance by logging into our online banking portal, using our mobile app, or visiting an ATM. For detailed assistance, call our customer service.",
+        "category": "accounts"
+    },
+    {
+        "id": 6,
+        "text": "Home loans are available with competitive interest rates. Eligibility criteria include credit score, income stability, and property valuation. Documents required include proof of income, address, and property papers.",
+        "category": "loans"
+    },
+    {
+        "id": 8,
+        "text": "We offer various types of bank accounts including Savings Accounts, Current Accounts, Fixed Deposit Accounts, and Recurring Deposit Accounts. Each has different features and benefits tailored to your needs.",
+        "category": "accounts"
+    },
+    {
+        "id": 9,
+        "text": "To open a savings account, you generally need to provide identity proof (e.g., Passport, Driving License, Voter ID, Aadhaar Card) and address proof (e.g., Utility Bill, Passport). You also need to fill out an account opening form.",
+        "category": "accounts"
+    },
+    {
+        "id": 10,
+        "text": "The minimum balance requirement for a savings account varies by account type. Please refer to our bank's schedule of charges or contact customer service for specific details regarding your account.",
+        "category": "accounts"
+    },
+    {
+        "id": 11,
+        "text": "Yes, there are typically charges for maintaining a current account, which may include monthly service fees or charges for exceeding certain transaction limits. These charges vary based on the type of current account.",
+        "category": "accounts"
+    },
+    {
+        "id": 12,
+        "text": "To reset your online banking password, visit our official online banking portal and click on the 'Forgot Password' link. You will then be guided through a secure verification process.",
+        "category": "digital_banking"
+    },
+    {
+        "id": 13,
+        "text": "To close a bank account, you typically need to visit your branch, fill out an account closure form, and settle any outstanding balances or issues. Ensure all linked services are updated.",
+        "category": "policies"
+    },
+    {
+        "id": 14,
+        "text": "Online banking is highly secure. We use advanced encryption, multi-factor authentication, and continuous fraud monitoring. Always ensure you log in via our official website or app.",
+        "category": "security"
+    },
+    {
+        "id": 15,
+        "text": "To apply for a debit card or credit card, you can apply online through our website, via our mobile app, or by visiting any of our bank branches. Eligibility criteria apply.",
+        "category": "cards"
+    },
+    {
+        "id": 16,
+        "text": "A debit card directly deducts money from your bank account for purchases, while a credit card allows you to borrow money up to a limit and repay it later. Debit cards use your own funds; credit cards use borrowed funds.",
+        "category": "cards"
+    },
+    {
+        "id": 17,
+        "text": "To block a lost or stolen debit or credit card immediately, please call our 24/7 customer service hotline or use the 'Block Card' feature in your online banking portal or mobile app.",
+        "category": "cards"
+    },
+    {
+        "id": 18,
+        "text": "Loan eligibility is determined based on various factors including your credit score, income stability, and existing debts, and the type of loan you are applying for. Our loan advisors can provide a detailed assessment.",
+        "category": "loans"
+    },
+    {
+        "id": 19,
+        "text": "To check your loan repayment schedule, you can log in to your online banking account, check your loan statement, or contact our customer service department.",
+        "category": "loans"
+    },
+    {
+        "id": 20,
+        "text": "Yes, you can prepay or foreclose your loan. There may be specific charges or penalties for early closure, depending on the loan type and terms. Please refer to your loan agreement or contact our team for details.",
+        "category": "loans"
+    },
+    {
+        "id": 21,
+        "text": "To register for mobile banking, download our official mobile banking app from your app store and follow the registration steps using your account details and registered mobile number.",
+        "category": "digital_banking"
+    },
+    {
+        "id": 22,
+        "text": "If your mobile banking app is not working, first ensure you have a stable internet connection and the latest app version. If issues persist, try reinstalling the app or contacting customer support.",
+        "category": "digital_banking"
+    },
+    {
+        "id": 23,
+        "text": "You can transfer money using NEFT (National Electronic Funds Transfer), RTGS (Real Time Gross Settlement), or IMPS (Immediate Payment Service) through our online banking portal or mobile app.",
+        "category": "digital_banking"
+    },
+    {
+        "id": 24,
+        "text": "Charges for online fund transfers (NEFT/RTGS/IMPS) may apply, depending on the amount and type of transaction. Small value NEFT/IMPS transfers are often free. Please check our fee structure on the website.",
+        "category": "digital_banking"
+    },
+    {
+        "id": 25,
+        "text": "You can get a mini statement or a full account statement online by logging into your internet banking account and navigating to the 'Account Statement' section.",
+        "category": "digital_banking"
+    },
+    {
+        "id": 26,
+        "text": "Our bank adheres strictly to KYC (Know Your Customer) policies as mandated by regulatory authorities. This involves verifying the identity and address of our customers to prevent financial crime.",
+        "category": "policies"
+    },
+    {
+        "id": 27,
+        "text": "Your personal information is protected through robust data encryption, secure servers, strict access controls, and compliance with data privacy regulations. We never share your data without consent.",
+        "category": "security"
+    },
+    {
+        "id": 28,
+        "text": "To report fraudulent transactions, immediately contact our 24/7 fraud helpline or visit your nearest branch. Provide all relevant details for prompt investigation.",
+        "category": "security"
+    },
+    {
+        "id": 29,
+        "text": "We handle complaints and disputes seriously. You can lodge a complaint through our website, mobile app, email, phone, or by visiting a branch. We aim to resolve all issues efficiently and transparently.",
+        "category": "policies"
+    },
+    {
+        "id": 30,
+        "text": "If you miss a loan repayment, late payment charges may apply, and it could negatively impact your credit score. Please contact us immediately to discuss repayment options and avoid further penalties.",
+        "category": "loans"
+    }
+]
